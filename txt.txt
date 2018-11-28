@@ -19,3 +19,4 @@ gewgwagfgwag
 第三行：提交之前先拉一下，让本地和远程仓库一个样子，换句话说是同步。
 >>>>>>> cad001ad4d6b385763f7f71bcdfec39e5b364388
 {"id":"5bf61c44c898057a233e2a62","pushed":0,"device":"virtualdevice","created":1542855748742,"modified":0,"origin":0,"schedule":null,"event":null,"readings":[{"id":"5bf61c44c898057a233e2a63","pushed":0,"created":1542855748742,"origin":0,"modified":0,"device":"virtualdevice","name":"AddTypeDevice","value":"{\"IP\":\"10.110.181.154\",\"Num\":\"1\",\"StartIndex\":\"1\",\"Type\":\"MODBUS\"}"}]}
+https://segmentfault.com/ls/1650000016221751?page=1#score
